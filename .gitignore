@@ -1,0 +1,3 @@
+readings.parquet
+.venv/
+__pycache__/
